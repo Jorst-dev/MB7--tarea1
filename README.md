@@ -13,3 +13,6 @@ Soy un estudiante de senati del 5 ciclo, de la carrera de desarrollo de software
 # Experiencias
 -Desarrollo de paginas web con wordpress
 -Aplicaciones web 
+# Contacto
+-963138299
+-1566731@senati.pe
